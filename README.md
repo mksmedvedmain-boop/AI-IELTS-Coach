@@ -1,4 +1,3 @@
-
 # AI IELTS Coach
 
 AI-powered platform designed to help students prepare for the IELTS exam using artificial intelligence.
@@ -46,7 +45,4 @@ AI-IELTS-Coach/
 - Create AI speaking evaluation system
 - Add IELTS score prediction
 - Build personalized learning recommendations
-- Deploy the application online
-=======
-# AI-IELTS-Coach
->>>>>>> 900628f835c69592c7d20b95d50d7507fc16bda1
+- Deploy the application online=======# AI-IELTS-Coach
